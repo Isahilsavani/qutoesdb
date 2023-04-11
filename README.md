@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Display a rendomcode based on selected mood while app statup screen from local database change displayed quote add every 10second redndamly and also keep that changed quotes log(hestory) in a local db and show that in drawer menu.......
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
